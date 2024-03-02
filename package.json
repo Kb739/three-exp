@@ -1,0 +1,17 @@
+{
+  "name": "three",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev":"vite"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.157.0"
+  },
+  "devDependencies": {
+    "vite": "^4.4.11"
+  }
+}
